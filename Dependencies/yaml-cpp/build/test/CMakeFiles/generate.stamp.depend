@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+D:/Repository/2022/C++/yaml-cpp-yaml-cpp-0.7.0 (2)/yaml-cpp-yaml-cpp-0.7.0/build/CMakeFiles/cmake.verify_globs
+D:/Repository/2022/C++/yaml-cpp-yaml-cpp-0.7.0 (2)/yaml-cpp-yaml-cpp-0.7.0/test/CMakeLists.txt
+F:/Program Files/CMake/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake
+F:/Program Files/CMake/share/cmake-3.25/Modules/CheckIncludeFileCXX.cmake
+F:/Program Files/CMake/share/cmake-3.25/Modules/CheckLibraryExists.cmake
+F:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+F:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+F:/Program Files/CMake/share/cmake-3.25/Modules/FindThreads.cmake

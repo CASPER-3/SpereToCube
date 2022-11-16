@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\build\CMakeFiles\39f6500c03c96bd993c03a43da8e43d7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3DFED92F-72EF-3613-A831-1DA2D4E772E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

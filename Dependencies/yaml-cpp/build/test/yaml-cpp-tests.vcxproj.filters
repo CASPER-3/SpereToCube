@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\emitter_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\encoding_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\error_messages_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\gen_emitter_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\handler_spec_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\handler_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\load_node_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\integration\node_spec_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\node\node_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\ostream_wrapper_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\parser_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\regex_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Repository\2022\C++\yaml-cpp-yaml-cpp-0.7.0 (2)\yaml-cpp-yaml-cpp-0.7.0\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AC4902D7-C39F-3316-A207-BB350D3AB60E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
